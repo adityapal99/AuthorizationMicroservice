@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IJsqfvaJZm/KgS29VeJOCT6zp05x5EGAgLW7mL+E2PwhMPSzPvlMsCnDvkQSpuYo/5VJTB9dE9Qw5mkZxgoaeA==",
+  "dgSpecHash": "XnQ1drdaDa8n5EqK1EgvPVxaZsTL3dUfbEyywoeElUfM+N8916cg0ns7VmS47NVoXl30Ug5zV3WtyL30JyJVug==",
   "success": true,
-  "projectFilePath": "D:\\CTS\\Projects\\Backend\\ServiceBookingManagement\\AuthorizationMicroservice\\AuthorizationMicroservice.csproj",
+  "projectFilePath": "D:\\CTS\\Projects\\Backend\\AuthorizationMicroservice\\AuthorizationMicroservice.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\adity\\.nuget\\packages\\log4net\\2.0.8\\log4net.2.0.8.nupkg.sha512",
     "C:\\Users\\adity\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.0\\microsoft.aspnetcore.authentication.jwtbearer.3.1.0.nupkg.sha512",

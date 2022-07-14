@@ -129,8 +129,6 @@ D:\CTS\Projects\Backend\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\Author
 D:\CTS\Projects\Backend\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.pdb
 D:\CTS\Projects\Backend\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.genruntimeconfig.cache
 D:\CTS\Projects\Backend\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\log4net.config
-D:\CTS\Projects\Backend\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
-D:\CTS\Projects\Backend\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\scopedcss\bundle\AuthorizationMicroservice.styles.css
 D:\CTS\Projects\Backend\ServiceBookingManagement\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\log4net.config
 D:\CTS\Projects\Backend\ServiceBookingManagement\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\CTS\Projects\Backend\ServiceBookingManagement\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
@@ -197,3 +195,4 @@ D:\CTS\Projects\Backend\ServiceBookingManagement\AuthorizationMicroservice\obj\D
 D:\CTS\Projects\Backend\ServiceBookingManagement\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.dll
 D:\CTS\Projects\Backend\ServiceBookingManagement\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.pdb
 D:\CTS\Projects\Backend\ServiceBookingManagement\AuthorizationMicroservice\obj\Debug\netcoreapp3.1\AuthorizationMicroservice.genruntimeconfig.cache
+D:\CTS\Projects\Backend\AuthorizationMicroservice\bin\Debug\netcoreapp3.1\AuthorizationMicroservice.StaticWebAssets.xml
